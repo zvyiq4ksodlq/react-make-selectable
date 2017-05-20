@@ -1,6 +1,6 @@
 {
   "name": "react-make-selectable",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/build.js",
   "repository": "git@github.com:zvyiq4ksodlq/react-make-selectable.git",
   "author": "rgsfxdvwetrt2 <rgsfxdvwetrt2@gmx.com>",
@@ -19,6 +19,7 @@
     "babel-preset-stage-0": "^6.24.1",
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
+    "react-dom": "^15.5.4",
     "webpack": "^2.4.1"
   },
   "babel": {
